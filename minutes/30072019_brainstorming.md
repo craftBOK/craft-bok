@@ -3,7 +3,7 @@
 * York Xylander (leanovate)
 
 ## Minutes
-* We walked through the pitch deck to have the same context
+* We walked through the [pitch deck](https://docs.google.com/presentation/d/1I6tkR0e2srUmrmoniGl5pZf1-PmtcTg6TJWAvah9GIg/edit) to have the same context
 * We discussed and concluded that we are tackling the right problem(s)
 * As first step of brainstorming we tried to identify "Roles"
  * We grouped these roles into types
