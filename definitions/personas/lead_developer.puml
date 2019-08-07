@@ -1,4 +1,4 @@
-@startuml lead developer
+@startuml lead_developer
 
 skinparam Monochrome true
 
