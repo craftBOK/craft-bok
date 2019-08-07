@@ -1,6 +1,8 @@
 # Meeting from 30.07.2019
 ## Attendees
-* York Xylander (leanovate)
+* York Xylander
+* Ronald Brachetti
+* others (please add your names by yourself)
 
 ## Minutes
 * We walked through the [pitch deck](https://docs.google.com/presentation/d/1I6tkR0e2srUmrmoniGl5pZf1-PmtcTg6TJWAvah9GIg/edit) to have the same context
