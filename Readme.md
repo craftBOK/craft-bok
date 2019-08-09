@@ -22,4 +22,6 @@ We can envision a number of approaches for doing so, and want to use this space 
 In no particular order
 
 * Ronald Brachetti (Clean Code Culture)
-* York Xylander (leanovate)
+* York Xylander
+
+## FAQ
