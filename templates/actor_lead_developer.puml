@@ -1,0 +1,24 @@
+@startuml
+
+skinparam Monochrome true
+
+:Lead Developer: as LeadDev <<Consumer>>
+
+note right of LeadDev
+    Lead Developers are often the highest still active
+    developers in an organization. They are typically
+    tasked with 
+end note
+
+note left of LeadDev
+    This actor uses the stereotype <<Consumer>>
+    because while they could belong to other groups
+    (e.g. Contributor), in this definition they have
+    a role as a Consumer.
+    Other than that, the actors have a unique name and
+    can belong to multiple stereotypes. Every actor has
+    a description, that clarifies the role in context.
+end note
+
+
+@enduml

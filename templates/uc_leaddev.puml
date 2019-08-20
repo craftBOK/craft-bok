@@ -1,0 +1,41 @@
+@startuml
+
+skinparam Monochrome true
+
+:Lead Developer: as LeadDev <<Consumer>>
+
+usecase LD1 as "refering to a training system
+==
+..Story..
+As a Lead Developer
+I want to refer to a standard approach for training
+  my developers
+so they can work more collaboratively"
+
+usecase LD2 as "refering to a community system
+==
+..Story..
+As a Lead Developer
+I want to use a best practice scenario for starting
+  a community of practice for my developers
+so they can work more collaboratively as group"
+
+LeadDev --> LD1
+LeadDev --> LD2
+
+component [Community\nPrinciples] as CoPri
+component [Principle] as Pri
+component [Practice] as Pra
+component [Curriculum] as Cu
+
+LD1 --> Pri
+LD1 --> Pra
+LD1 --> Cu
+
+LD2 --> CoPri
+
+note left of Cu
+    Denote Artefacts as components
+end note
+
+@enduml
