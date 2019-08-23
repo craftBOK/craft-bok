@@ -1,6 +1,8 @@
 # Meeting from 06.08.2019
 ## Attendees
 * York Xylander
+* Ronald Brachetti
+* (others, please add yourselves)
 
 ## Minutes
 * Ron shared critical feedback he has recieved with respect to our project
