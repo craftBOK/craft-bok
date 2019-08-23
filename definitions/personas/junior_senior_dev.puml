@@ -1,0 +1,16 @@
+@startuml junior_senior_developer
+
+skinparam Monochrome true
+
+:Developer: as Dev <<Consumer>>
+
+note right of Dev
+    This persona currently includes junior and senior
+    developers. This might split into two groups, when
+    we have enough use cases to improve readability.
+    
+    Currently we focus on developers in their role as
+    consumers of the knowledge base.
+end note
+
+@enduml

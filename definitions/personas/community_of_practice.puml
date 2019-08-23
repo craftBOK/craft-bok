@@ -1,0 +1,16 @@
+@startuml community_of_practice
+
+skinparam Monochrome true
+
+:Community of Practice: as CoP <<Consumer>>
+
+note right of CoP
+    A Community of Practice (or CoP) is a community
+    of professionals inside an organisation, that
+    focusses on structurally maintaining and improving
+    professional standards.
+    
+    Ideally, the CoP also owns those artefacts.
+end note
+
+@enduml

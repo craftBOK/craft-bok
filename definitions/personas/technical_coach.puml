@@ -1,0 +1,17 @@
+@startuml technical_coach
+
+skinparam Monochrome true
+
+:Technical Coach: as TC <<Consumer>>
+
+note right of TC
+    A Technical Coach (or TC in short) actively works
+    on improving the level of professional and social
+    skills in a team or organisation.
+
+    They are seasoned professionals, in some contexts this
+    is an additional role (e.g. with a lead developer or
+    Agile Coach).
+end note
+
+@enduml
