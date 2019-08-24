@@ -12,8 +12,7 @@ Solid is a mnemnomic acronym of five software development princliples that are m
  - Interface segregation Principle
  - Dependency Inversion Principle
 
-The five principles were among others introduced in the paper "Design Principles and Design Patterns" by Robert C. Martin.
+The five principles were among others introduced in the paper "Design Principles and Design Patterns" by Robert C. Martin [[1]].
 The acronym SOLID was established later, as it was discovered by Michael Feathers.
 
-## Kata's
-http://kata-log.rocks/solid-principles.html
+[1]: https://web.archive.org/web/20150906155800/http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf
