@@ -6,6 +6,7 @@ tags: practice
 
 
 Origin: Practice of [Extreme Programming](http://www.extremeprogramming.org) 
+
 Why: feedback, knowledge sharing, bus factor 
 
 Pair programming is a practice of extreme programming (XP) and helps developers to work together at a task using one computer.
@@ -49,7 +50,7 @@ It is a good choice if you have two screens mirrored, so that everyone can see t
 Reach out to someone with experience in Pair Programming and ask them to pair with you.
 If you do not find such a person in your company, go to a meetup or a code retreat.
 When you feel confident convince your co-workers by trying it on your daily basis.
-For inspiration for a safe non production task see a [collection](http://kata-log.rocks/pair-programming.html).
+For inspiration for a safe non production task see a [collection](http://kata-log.rocks/pair-programming.html) of tasks for practice.
 Remember to switch pairs regularly.
 
 ### For competent and experienced:
