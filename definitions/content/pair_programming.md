@@ -38,6 +38,8 @@ It is a good choice if you have two screens mirrored, so that everyone can see t
 * [Agile Alliance Glossary: Pair Programming](https://www.agilealliance.org/glossary/pairing)
 * :gem: [Etiquette for Pair Programming](https://dzone.com/articles/etiquette-for-pair-programming)
 * :bulb: [Pair Programming Misconceptions by Martin Fowler](https://martinfowler.com/bliki/PairProgrammingMisconceptions.html)
+* :movie_camera: [Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q) shortly explained (2:50 minutes)
+* :movie_camera: [Pair Programming](https://www.youtube.com/watch?v=q7d_JtyCq1A) shortly explained (2:20 minutes)
 
 ## Relations
 
