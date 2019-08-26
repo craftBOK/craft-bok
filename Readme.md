@@ -27,7 +27,9 @@ In no particular order
 
 ## FAQ
 
-yet to come ... you could put questions in our Github Issues
+* **Where can I talk to you?** Hey, happy to talk. You can always leave us a suggestion in the issues and Pull Requests of this repository. Other than that, most of us are on the [Software Crafters Slack](https://softwarecrafters.slack.com/messages/CMRD8CT0W). Find us in the channel called `#body_of_knowledge`
+
+More yet to come ... in the mean time, add your own questions via Issues and PRs :)
 
 ### Similar Projects
 
