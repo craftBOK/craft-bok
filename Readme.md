@@ -27,4 +27,12 @@ In no particular order
 
 ## FAQ
 
-yet to come ...
+yet to come ... you could put questions in our Github Issues
+
+### Similar Projects
+
+This is obviously not the first time, such an effort has been undertaken to some degree or for a similar reason. Here is a non-conclusive list of resources:
+
+* https://github.com/softwarecrafters/awesome-software-crafting
+* https://github.com/joebew42/study-path
+* open a PR or Issue to add more
