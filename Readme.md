@@ -30,3 +30,11 @@ In no particular order
 * **Where can I talk to you?** Hey, happy to talk. You can always leave us a suggestion in the issues and Pull Requests of this repository. Other than that, most of us are on the [Software Crafters Slack](https://softwarecrafters.slack.com/messages/CMRD8CT0W). Find us in the channel called `#body_of_knowledge`
 
 More yet to come ... in the mean time, add your own questions via Issues and PRs :)
+
+### Similar Projects
+
+This is obviously not the first time, such an effort has been undertaken to some degree or for a similar reason. Here is a non-conclusive list of resources:
+
+* https://github.com/softwarecrafters/awesome-software-crafting
+* https://github.com/joebew42/study-path
+* open a PR or Issue to add more
