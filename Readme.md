@@ -1,7 +1,10 @@
 # (Software?) Craft Body of Knowledge (BOK)
 
 [![Feedback Survey](https://img.shields.io/badge/Feedback-Give%20Feedback-green)](http://bit.ly/craft-bok-survey)
+
 [![Contributor Survey](https://img.shields.io/badge/Want%20to%20Contribute-Let%20us%20know-blue)](http://bit.ly/craft-bok-survey)
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Meta
 
