@@ -1,5 +1,9 @@
 # (Software?) Craft Body of Knowledge (BOK)
 
+[![Feedback Survey](https://img.shields.io/badge/Feedback-Give%20Feedback-green)](http://bit.ly/craft-bok-survey)
+
+[![Contributor Survey](https://img.shields.io/badge/Want%20to%20Contribute-Let%20us%20know-blue)](http://bit.ly/craft-bok-survey)
+
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Meta
@@ -30,6 +34,8 @@ In no particular order
 ## FAQ
 
 * **Where can I talk to you?** Hey, happy to talk. You can always leave us a suggestion in the issues and Pull Requests of this repository. Other than that, most of us are on the [Software Crafters Slack](https://softwarecrafters.slack.com/messages/CMRD8CT0W). Find us in the channel called `#body_of_knowledge`
+* **I would like to give you feedback** Please use our [feedback survey](http://bit.ly/craft-bok-survey)
+* **I would like to contribute** Please also use our [survey](http://bit.ly/craft-bok-survey)
 
 More yet to come ... in the mean time, add your own questions via Issues and PRs :)
 
